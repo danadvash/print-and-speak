@@ -1,50 +1,34 @@
-📊 Assignment 5 - Data Analysis Project
+# 📊 Dana's Data Analysis & Python Projects
 
-🔍 Project Overview
+## 🎮 Project 1: Interactive Menu Game
+- Built an interactive menu with multiple functionalities.
+- Used loops, user input validation, and conditionals.
+- [📂 View Project](./interactive-menu/)
 
-This project is part of an academic assignment that focuses on data analysis using Python. The analysis involves working with structured datasets, applying statistical methods, and visualizing insights.
+## 🔢 Project 2: Assignment-Based Data Processing
+- Worked on structured data processing as part of coursework.
+- Applied Python, loops, and string manipulations.
+- [📂 View Project](./assignment-analysis/)
 
-🛠️ Technologies & Tools
+## 🏆 Project 3: Collaborative Data Assignment
+- Joint project focused on data handling and processing.
+- Implemented logical structures and functions to solve tasks.
+- [📂 View Project](./collaborative-assignment/)
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 🗣️ Project 4: Print and Speak
+- Developed a project that integrates text processing and speech synthesis.
+- Allows users to input text and receive both printed and spoken output.
+- Utilizes Python libraries for text-to-speech conversion.
+- [📂 View Project](./print-and-speak/)
 
-Jupyter Notebook / Google Colab
+## 🚀 How to Use This Repository
+1. Browse through the available projects.
+2. Click on the project links to access the code and documentation.
+3. Run the Jupyter Notebooks in Google Colab or Jupyter Notebook.
 
-Data Cleaning & Preprocessing
+## 📌 Next Steps
+- Add more projects related to finance and data analytics.
+- Improve documentation and optimize project efficiency.
 
-Data Visualization
+📢 Feel free to explore and contribute! 😊
 
-📂 Project Structure
-
-assignment-5-analysis/
-├── Cleaned_Assignment_5.ipynb  # Main Jupyter Notebook with analysis
-├── data/                       # Folder for raw and processed data
-├── README.md                   # Project documentation
-
-📈 Key Insights & Analysis
-
-Performed data cleaning and preprocessing to handle missing values
-
-Conducted exploratory data analysis (EDA) to identify trends and patterns
-
-Applied statistical methods for deeper insights
-
-Visualized key metrics using plots and charts
-
-🚀 How to Run the Project
-
-Download the Cleaned_Assignment_5.ipynb file.
-
-Open it in Google Colab or Jupyter Notebook.
-
-Run the notebook step by step to see the analysis and visualizations.
-
-📌 Next Steps
-
-Extend the analysis with additional data sources
-
-Implement machine learning models for predictive insights
-
-Optimize data visualization for better readability
-
-📢 If you have any questions or suggestions, feel free to reach out! 😊
